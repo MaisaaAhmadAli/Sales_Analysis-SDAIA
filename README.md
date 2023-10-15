@@ -9,6 +9,7 @@
   - [Data Analysis](#2-data-analysis)
   - [Data Visualization](#3-data-visualization)
   - [Report Generation](#4-report-generation)
+- [Cridets](#Cridets) 
 
 ---
 
@@ -68,6 +69,11 @@ As a data scientist, your task is to analyze AAL's sales data for the fourth qua
 - The Jupyter Notebook for this project serves as your report.
 - Use markdown to present your analysis effectively.
 - Incorporate appropriate graphs, plots, and analysis reports in the notebook.
+## Cridets 
+
+- Maisaa Alhulimi: [LinkedIn](https://www.linkedin.com/in/maisaa-alhulimi-08b83918b/)
+- Renad Mohammad: [LinkedIn]()
+- Mussab Albargi: [LinkedIn]()
 
 ---
 
