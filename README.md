@@ -72,7 +72,7 @@ As a data scientist, your task is to analyze AAL's sales data for the fourth qua
 ## Cridets 
 
 - Maisaa Alhulimi: [LinkedIn](https://www.linkedin.com/in/maisaa-alhulimi-08b83918b/)
-- Renad Mohammad: [LinkedIn]()
+- Renad Mohammad: [LinkedIn](https://www.linkedin.com/in/renad-al-marei-6a2b8123b/)
 - Mussab Albargi: [LinkedIn]()
 
 ---
